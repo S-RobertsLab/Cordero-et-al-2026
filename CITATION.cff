@@ -6,70 +6,68 @@ version: "1.0.0"
 date-released: "2026-06-15"
 
 authors:
-
-* family-names: Cordero
-  given-names: Cameron
-  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
-* family-names: Vandenberg
-  given-names: Brittany N.
-  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405; School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
-* family-names: Mittelstadt
-  given-names: Isabelle
-  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
-* family-names: Murch
-  given-names: Jordan
-  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
-* family-names: Laughery
-  given-names: Marian F.
-  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
-* family-names: Mieczkowski
-  given-names: Piotr A.
-  affiliation: "Department of Genetics, Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA"
-* family-names: Wyrick
-  given-names: John J.
-  affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
-* family-names: Roberts
-  given-names: Steven A.
-  email: "[srober23@med.uvm.edu](mailto:srober23@med.uvm.edu)"
-  affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405; School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
+  - family-names: Cordero
+    given-names: Cameron
+    affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+  - family-names: Vandenberg
+    given-names: Brittany N.
+    affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405; School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
+  - family-names: Mittelstadt
+    given-names: Isabelle
+    affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+  - family-names: Murch
+    given-names: Jordan
+    affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405"
+  - family-names: Laughery
+    given-names: Marian F.
+    affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
+  - family-names: Mieczkowski
+    given-names: Piotr A.
+    affiliation: "Department of Genetics, Lineberger Comprehensive Cancer Center, University of North Carolina, Chapel Hill, NC 27599, USA"
+  - family-names: Wyrick
+    given-names: John J.
+    affiliation: "School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
+  - family-names: Roberts
+    given-names: Steven A.
+    email: "srober23@med.uvm.edu"
+    affiliation: "Department of Microbiology and Molecular Genetics, University of Vermont, Burlington, VT 05405; School of Molecular Biosciences and Center for Reproductive Biology, Washington State University, Pullman, WA 99164"
 
 abstract: >
-Code accompanying the manuscript "Widespread atypical UV-induced mutations
-form in single-stranded DNA." This repository contains analysis scripts and
-supporting code for studying UV-induced mutagenesis in single-stranded DNA.
+  Code accompanying the manuscript "Widespread atypical UV-induced mutations
+  form in single-stranded DNA." This repository contains analysis scripts and
+  supporting code for studying UV-induced mutagenesis in single-stranded DNA.
 
 keywords:
+  - "UV mutagenesis"
+  - "single-stranded DNA"
+  - "ssDNA"
+  - "mutation spectra"
+  - "genome instability"
+  - "DNA damage"
+  - "mutational signatures"
 
-* UV mutagenesis
-* single-stranded DNA
-* ssDNA
-* mutation spectra
-* genome instability
-* DNA damage
-* mutational signatures
-
-license: "MIT"
+license: MIT
 repository-code: "https://github.com/S-RobertsLab/Cordero-et-al-2026"
 url: "https://github.com/S-RobertsLab/Cordero-et-al-2026"
 
 preferred-citation:
-type: article
-title: "Widespread atypical UV-induced mutations form in single-stranded DNA"
-authors:
-- family-names: Cordero
-given-names: Cameron
-- family-names: Vandenberg
-given-names: Brittany N.
-- family-names: Mittelstadt
-given-names: Isabelle
-- family-names: Murch
-given-names: Jordan
-- family-names: Laughery
-given-names: Marian F.
-- family-names: Mieczkowski
-given-names: Piotr A.
-- family-names: Wyrick
-given-names: John J.
-- family-names: Roberts
-given-names: Steven A.
-year: 2026
+  type: article
+  title: "Widespread atypical UV-induced mutations form in single-stranded DNA"
+  authors:
+    - family-names: Cordero
+      given-names: Cameron
+    - family-names: Vandenberg
+      given-names: Brittany N.
+    - family-names: Mittelstadt
+      given-names: Isabelle
+    - family-names: Murch
+      given-names: Jordan
+    - family-names: Laughery
+      given-names: Marian F.
+    - family-names: Mieczkowski
+      given-names: Piotr A.
+    - family-names: Wyrick
+      given-names: John J.
+    - family-names: Roberts
+      given-names: Steven A.
+  year: 2026
